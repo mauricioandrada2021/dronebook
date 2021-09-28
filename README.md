@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The binaries and source code in this repository are a companion to the book ***Principles of Drone Design***.
+The binaries and source code in this repository are a companion to the book [***Principles of Drone Design***](https://payhip.com/dronedesign).
 
 It is a simple client/server implementation allowing QGroundControl to communicate with an UAV over the Internet.
 
@@ -56,5 +56,3 @@ The **obc** option will display logs with data received from the on-board comput
 * 3: logs from 1 + data received from the server
 
 The book provides instructions n how to setup the RPi 4 to start the client application automatically on power up.
-
-
